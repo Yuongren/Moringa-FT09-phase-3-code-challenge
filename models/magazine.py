@@ -6,3 +6,5 @@ class Magazine:
 
     def __repr__(self):
         return f'<Magazine {self.name}>'
+    
+
